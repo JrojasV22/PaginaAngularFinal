@@ -1,0 +1,21 @@
+.sin-color  td{
+    background-color: transparent;
+}
+
+.sin-color th{
+    background-color: transparent;
+}
+
+.a {
+    background-color: rgba(214, 90, 27, 0.92);
+    
+ 
+}
+
+.container{
+    text-align: center;
+    color: rgb(118, 56, 9);
+    margin-top: 7rem;
+    margin-bottom: 10rem;
+}
+

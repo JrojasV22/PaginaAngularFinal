@@ -1,0 +1,26 @@
+.c{
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    text-align: center;
+
+}
+
+.card-rounded{
+    border-radius: 10%;
+    
+}
+
+.bo{
+  background-color: rgb(245, 154, 10);
+}
+
+.card-rounded img{
+  padding-top: 10px;
+  height: 15rem;
+  width: 16rem;
+  border-radius: 50%;
+
+}
+
+
+

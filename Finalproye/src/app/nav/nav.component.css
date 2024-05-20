@@ -1,0 +1,15 @@
+.n{
+    background-color: #f1a901e0;
+}
+
+@media(max-width: 767px){
+    .navbar{
+        height: 6rem;
+    }
+
+    a{
+        font-size: 2rem;
+        bottom: 3rem;
+    }
+      
+}

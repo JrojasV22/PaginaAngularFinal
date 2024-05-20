@@ -1,0 +1,46 @@
+ 
+.a{
+    position: relative;
+}
+
+.fondo{
+    background-image: url('https://ahoraeg.com/wp-content/uploads/2023/07/Paises-de-Africa.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    display: grid;
+    align-items: center; 
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+.texto{
+    width: 50rem;
+    margin-left: 6rem;
+}
+
+.texto h1{
+    font-size: 5.4rem;
+    color: rgb(51, 253, 240);
+}
+
+.texto p{
+    font-size: 2.7rem;
+    color: rgb(255, 255, 255);
+}
+    
+@media(max-width: 767px){
+  .fondo{
+    min-height: 500px;
+  }
+
+  .texto h1{
+    font-size:  2.6rem;
+    
+  }
+
+  .texto p{
+    font-size:  2.3rem;
+  }
+}
