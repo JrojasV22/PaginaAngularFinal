@@ -21,8 +21,9 @@
 }
 
 .texto h1{
-    font-size: 5.4rem;
-    color: rgb(51, 253, 240);
+    font-size: 6.4rem;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(230, 110, 35);
 }
 
 .texto p{
